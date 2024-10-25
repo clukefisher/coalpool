@@ -1,10 +1,15 @@
-PLEASE BE SAFE AND ONLY USE BURNER WALLET, ASK FOR SUPPORT IN COAL DISCORD, DONT ANSWER DMS
+PLEASE BE SAFE AND ONLY USE A BURNER WALLET, ASK FOR SUPPORT IN THE OMC DISCORD, DONT ANSWER DMS
 
-COPY PASTE THE FOLLOWING:
+FOR A SIMPLE COPY PASTE WALK THROUGH GUIDE FOR BEGINNERS PLS JOIN OUR DISCORD AND NAVIGATE TO THE omc-resources CHANNEL
 
-*Step1* git clone https://github.com/coal-digital/coalpool.git
+For any help please join the Ore Mining Corp Discord
+https://discord.gg/RDmMERaC
 
-*Step2* cd coalpool
+IF YOU KNOW WHAT YOU"RE DOING HERE'S A SUMMARY GUIDE:
+
+*Step1* git clone https://github.com/omc/omcguild.git
+
+*Step2* cd omcguild
 
 *Step3* cargo build --release
 
@@ -13,12 +18,18 @@ Next step costs .001 SOLANA
 IMPORTANT. You need to find your file Path. and replace the filepath below. You can find your username typing whoami
 Windows users need to use \ instead of / in file paths
 
-*Step4* ./target/release/coal-hq-client --keypair /root/username/filepath/id.json signup
+*Step4* ./target/release/omcguild --keypair /root/username/filepath/id.json signup
 
-*Step5* ./target/release/coal-hq-client --keypair /root/username/filepath/id.json mine --cores 15
+*Step5* ./target/release/omcguild --keypair /root/username/filepath/id.json mine --cores xx
 
-For step 5 replace filepath and set cores to the # of THREADS your CPU supports -1. Ex: AMD 16 core, can use 31. 
-For optimzation run ./target/release/coal-hq-client benchmark --cores NUMBER   and test different # for --cores 
+For step 5 replace filepath and set xx cores to the # of THREADS your CPU supports -1. Ex: AMD 16 core, can use 31. 
+For optimzation run ./target/release/omcguild benchmark --cores NUMBER   and test different # for --cores 
 
-For any help please join the Discord and look for the HELP channel
-https://discord.gg/8tVgPackKq
+For any help please join the Ore Mining Corp Discord
+https://discord.gg/RDmMERaC
+
+https://x.com/OreMiningCorp
+
+BECOME A MEMBER OF THE OMC DAO WITH ORE'S FIRST NFT
+
+https://www.tensor.trade/trade/oreminingcorp
