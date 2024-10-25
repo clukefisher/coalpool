@@ -5,7 +5,7 @@ FOR A SIMPLE COPY PASTE WALK THROUGH GUIDE FOR BEGINNERS PLS JOIN OUR DISCORD AN
 For any help please join the Ore Mining Corp Discord
 https://discord.gg/RDmMERaC
 
-IF YOU KNOW WHAT YOU"RE DOING HERE'S A SUMMARY GUIDE:
+IF YOU KNOW WHAT YOU'RE DOING HERE'S A SUMMARY GUIDE:
 
 *Step1* git clone https://github.com/omc/omcguild.git
 
